@@ -1,0 +1,20 @@
+ACP DESENVOLVIMENTO — ARQUIVOS PARA ESTUDO
+
+Arquivos:
+- index.html: estrutura e conteúdo da página (HTML)
+- style.css: aparência, cores, layout e responsividade (CSS)
+- script.js: comportamento do formulário e WhatsApp (JavaScript)
+
+Como estudar:
+1. Extraia esta pasta do ZIP.
+2. Abra index.html no navegador para ver o site.
+3. Abra os arquivos com um editor de texto ou Visual Studio Code.
+4. Altere um item por vez e atualize o navegador.
+
+WhatsApp:
+O número configurado em script.js está no formato internacional, somente dígitos:
+5531986006826
+Para trocar o número, altere a constante WHATSAPP_NUMBER.
+
+Observação:
+O formulário abre uma conversa no WhatsApp com a mensagem preenchida. Ele não envia a mensagem sozinho; a pessoa ainda precisa confirmar o envio no WhatsApp.
